@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @oleafarx
-- 👀 I’m interested in business, criptocurrency, ecommerce and web development
-- 🌱 I’m currently learning HTML, CSS, Javascript, Angular and NodeJS. 
+- 👀 I’m interested in business, ecommerce and software development
+- 🌱 I’m currently learning Angular, AWS and NodeJS. 
 - 💞️ I am looking to collaborate in companies/startups that give me the opportunity to continue learning.
